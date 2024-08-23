@@ -1,0 +1,42 @@
+[
+    {
+        "brand": "BOSCH",
+        "image": "https://cdn.autodoc.de/brands/thumbs/30.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/bosch"
+      },
+      {
+        "brand": "HELLA",
+        "image": "https://cdn.autodoc.de/brands/thumbs/2.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/hella"
+      },
+      {
+        "brand": "VEMO",
+        "image": "https://cdn.autodoc.de/brands/thumbs/312.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/vemo"
+      },
+      {
+        "brand": "FEBI BILSTEIN",
+        "image": "https://cdn.autodoc.de/brands/thumbs/101.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/febi-bilstein"
+      },
+      {
+        "brand": "SACHS",
+        "image": "https://cdn.autodoc.de/brands/thumbs/32.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/sachs"
+      },
+      {
+        "brand": "BERU",
+        "image": "https://cdn.autodoc.de/brands/thumbs/11.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/beru"
+      },
+      {
+        "brand": "ATE",
+        "image": "https://cdn.autodoc.de/brands/thumbs/3.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/ate"
+      },
+      {
+        "brand": "BEHR THERMOT-TRONIK",
+        "image": "https://cdn.autodoc.de/brands/thumbs/52.png?m=0&ccf=93145724",
+        "link": "https://www.autodoc.es/marcas-piezas-coche/behr-thermot-tronik"
+      }
+]
